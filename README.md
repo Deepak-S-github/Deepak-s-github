@@ -17,7 +17,7 @@ Python, C, C++, JavaScript, Node.js, React, Flask
 MongoDB, MySQL, AWS, Firebase  
 
 ## 📫 Connect with Me  
-LinkedIn: [https://www.linkedin.com/in/deepak-saminathan-47579a2a2/]  
+LinkedIn: [https://www.linkedin.com/in/deepak-saminathan/]  
 Instagram: [https://www.instagram.com/d.pak_07/]  
 
 🎯 Mission: Keep learning, keep building, and explore new tech! 🚀  
