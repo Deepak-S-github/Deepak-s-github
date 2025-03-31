@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🚀 AI & Full-Stack Developer | Tech Explorer  
 
-<!--
-**Deepak-S-github/Deepak-s-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Pursuing Artificial Intelligence & Data Science at Velammal Engineering College.  
 
-Here are some ideas to get you started:
+💡 Passionate about AI, Machine Learning, Web Development & Cloud Computing.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 Currently working on:  
+- My College Website project.  
+
+📚 **Currently Learning:** TensorFlow, Flutter, AWS, Firebase  
+
+## 🛠 Tech Stack  
+### **Languages & Frameworks**  
+Python, C, C++, JavaScript, Node.js, React, Flask  
+
+### **Databases & Cloud**  
+MongoDB, MySQL, AWS, Firebase  
+
+## 📫 Connect with Me  
+LinkedIn: [https://www.linkedin.com/in/deepak-saminathan-47579a2a2/]  
+Instagram: [https://www.instagram.com/d.pak_07/]  
+
+🎯 Mission: Keep learning, keep building, and explore new tech! 🚀  
