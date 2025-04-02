@@ -1,11 +1,20 @@
 # 🚀 AI & Full-Stack Developer | Tech Explorer  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Hi,+I'm+Deepak+S.;AI+%26+Full-Stack+Developer;Tech+Explorer+%7C+ML+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=I+am+Deepak+S.;Welcome+to+my+GitHub+page!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DeepakSaminathan/DeepakSaminathan/main/wave.svg" alt="Animated Background" width="100%" />
+  <div style="position: relative; width: 100%; height: 150px; overflow: hidden; background: linear-gradient(-45deg, #ff5733, #ffbd33, #33ff57, #3388ff); background-size: 400% 400%; animation: gradientBG 5s ease infinite;">
+  </div>
+  
+  <style>
+    @keyframes gradientBG {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+  </style>
 </p>
 
 > **“Building Intelligent Solutions, One Line of Code at a Time.”**
