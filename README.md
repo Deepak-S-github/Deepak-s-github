@@ -23,9 +23,9 @@
 > **“Building Intelligent Solutions, One Line of Code at a Time.”**
 
 🎓 **Pursuing Artificial Intelligence & Data Science** at Velammal Engineering College  
-💡 **Passionate about:** AI, ML, Web Development & Cloud Computing  
+💡 **Passionate about:** AI, ML, Web Development 
 ⚡ **Currently Working On:** My College Website Project  
-📚 **Currently Learning:** TensorFlow, Flutter, AWS, Firebase  
+📚 **Currently Learning:** TensorFlow, Flutter, AWS, Firebase & Cloud Computing  
 
 ---
 
