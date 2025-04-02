@@ -5,16 +5,19 @@
 </p>
 
 <p align="center">
-  <div style="position: relative; width: 100%; height: 150px; overflow: hidden; background: linear-gradient(-45deg, #ff5733, #ffbd33, #33ff57, #3388ff); background-size: 400% 400%; animation: gradientBG 5s ease infinite;">
-  </div>
-  
-  <style>
-    @keyframes gradientBG {
-      0% { background-position: 0% 50%; }
-      50% { background-position: 100% 50%; }
-      100% { background-position: 0% 50%; }
-    }
-  </style>
+  <svg width="100%" height="150">
+    <defs>
+      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#FF5733;stop-opacity:1">
+          <animate attributeName="offset" values="0;1;0" dur="5s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" style="stop-color:#33FF57;stop-opacity:1">
+          <animate attributeName="offset" values="1;0;1" dur="5s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="150" fill="url(#grad1)" />
+  </svg>
 </p>
 
 > **“Building Intelligent Solutions, One Line of Code at a Time.”**
