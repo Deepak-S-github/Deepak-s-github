@@ -1,5 +1,13 @@
 # 🚀 AI & Full-Stack Developer | Tech Explorer  
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Hi,+I'm+Deepak+S.;AI+%26+Full-Stack+Developer;Tech+Explorer+%7C+ML+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DeepakSaminathan/DeepakSaminathan/main/wave.svg" alt="Animated Background" width="100%" />
+</p>
+
 > **“Building Intelligent Solutions, One Line of Code at a Time.”**
 
 🎓 **Pursuing Artificial Intelligence & Data Science** at Velammal Engineering College  
