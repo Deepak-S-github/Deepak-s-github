@@ -2,12 +2,12 @@
 
 🎓 Pursuing Artificial Intelligence & Data Science at Velammal Engineering College.  
 
-💡 Passionate about AI, Machine Learning, Web Development & Cloud Computing.  
+💡 Passionate about AI, Machine Learning, Web Development 
 
 👨‍💻 Currently working on:  
 - My College Website project.  
 
-📚 **Currently Learning:** TensorFlow, Flutter, AWS, Firebase  
+📚 **Currently Learning:** TensorFlow, Flutter, AWS, Firebase ,Cloud Computing.  
 
 ## 🛠 Tech Stack  
 ### **Languages & Frameworks**  
