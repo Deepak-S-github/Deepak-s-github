@@ -86,7 +86,7 @@
 ## 📊 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAMSDP&bg_color=0d1117&color=00ffb3&line=00c6ff&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepak&bg_color=0d1117&color=00ffb3&line=00c6ff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
