@@ -1,6 +1,6 @@
 <!-- README.md -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Deepak+Saminathan!;AI+Engineer+%7C+Full+Stack+Developer+%7C+Tech+Explorer;Welcome+to+My+Creative+Universe+on+GitHub!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Deepak+Saminathan!;AI+Engineer+%7C+Full+Stack+Developer+%7C+Tech+Explorer;Welcome+to+My+Creative+Universe+on+GitHub!+🚀" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -69,16 +69,16 @@
 ## 🚀 Featured GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAMSDP&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMSDP&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepak-S-github&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak-S-github&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAMSDP&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepak-S-github&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SAMSDP&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Deepak-S-github&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -86,10 +86,9 @@
 ## 📊 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepak&bg_color=0d1117&color=00ffb3&line=00c6ff&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepak-S-github&bg_color=0d1117&color=00ffb3&line=00c6ff&point=ffffff&area=true&hide_border=true" />
 </p>
 
----
 ---
 
 ## 🌐 Let's Connect  
