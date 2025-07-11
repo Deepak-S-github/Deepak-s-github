@@ -7,9 +7,10 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="45%" />
-  <img src="https://media.giphy.com/media/5k0CGgchP2vE9tR9Lo/giphy.gif" width="45%" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="45%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
+  <img src="https://media.giphy.com/media/5k0CGgchP2vE9tR9Lo/giphy.gif" width="45%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
 </p>
+
 
 
 
