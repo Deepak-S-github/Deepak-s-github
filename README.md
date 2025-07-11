@@ -1,86 +1,79 @@
-# 🚀 AI & Full-Stack Developer | Tech Explorer  
+<!-- README.md -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Deepak+Saminathan!;AI+Engineer+%7C+Full+Stack+Developer+%7C+Tech+Explorer;Welcome+to+My+Creative+Universe+on+GitHub!+🚀" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=I+am+Deepak+S.;Welcome+to+my+GitHub+page!" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
 <p align="center">
-  <svg width="100%" height="150">
-    <defs>
-      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#FF5733;stop-opacity:1">
-          <animate attributeName="offset" values="0;1;0" dur="5s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" style="stop-color:#33FF57;stop-opacity:1">
-          <animate attributeName="offset" values="1;0;1" dur="5s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-    </defs>
-    <rect width="100%" height="150" fill="url(#grad1)" />
-  </svg>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300px" />
 </p>
-
-> **“Building Intelligent Solutions, One Line of Code at a Time.”**
 
 ---
 
-🎓 **Pursuing B.Tech in Artificial Intelligence & Data Science**  
+> 🧠 **“Innovating intelligent ecosystems, one algorithm at a time.”**
+
+---
+
+🎓 **B.Tech in Artificial Intelligence & Data Science**  
 🏫 **Velammal Engineering College, Chennai**  
-🧠 **Tech Domains:**  
-- Artificial Intelligence & Machine Learning  
-- Web Development (MERN, Flask)  
-- Cloud Platforms (AWS, Firebase)  
-- Computer Vision & LLMs  
-- IoT and Edge Intelligence  
-
-⚡ **Currently Working On:**  
-- 🔧 College Website Revamp (VEC_Landing)  
-- 📸 Project Drishti – Real-time AI-Powered Event Safety System  
-- 🧠 Phishing Website Detection using ML  
-
-📚 **Currently Learning:** TensorFlow, Flutter, AWS, Vertex AI, Google Cloud Studio  
+🌍 **Exploring the boundaries of AI, Vision, Cloud, and Full-Stack Engineering**
 
 ---
 
-## 🛠 Tech Stack  
+## 🌟 About Me – Fast Facts
+<div align="center">
+  
+🧩 AI enthusiast with a flair for solving real-world problems  
+🖥️ I love building intelligent full-stack apps that *think*  
+🧠 Active contributor to open-source & college AI communities  
+🌱 Currently diving deeper into TensorFlow, Vertex AI, Flutter  
 
-### 🚀 Languages & Frameworks  
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+</div>
 
-### ☁️ Databases & Cloud  
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
+---
 
-### 🧰 Tools & Platforms  
+## 🔥 My Favorite Tech Domains  
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Generative%20AI-%23FF6F61?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Computer%20Vision-%232980B9?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LLMs%20%26%20NLP-%238E44AD?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MERN%20Stack-%232ECC71?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cloud:%20AWS%20%7C%20Firebase-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ---
 
-## 🔥 GitHub Stats & Achievements  
+## 💻 Tech Stack & Tools I Use
+
+### 🔧 Languages & Frameworks  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAMSDP&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMSDP&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,nodejs,flask,html,css" />
+</p>
+
+### ☁️ Databases & DevOps  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,vercel" />
+</p>
+
+### 🧰 Platforms & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,colab,figma" />
+</p>
+
+---
+
+## 🚀 Featured GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SAMSDP&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMSDP&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAMSDP&theme=github_dark" />
 </p>
 
@@ -90,7 +83,17 @@
 
 ---
 
-## 🌍 Let's Connect!  
+## 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAMSDP&bg_color=0d1117&color=00ffb3&line=00c6ff&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+---
+
+## 🌐 Let's Connect  
+
 <p align="center">
   <a href="https://www.linkedin.com/in/deepak-saminathan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -105,5 +108,9 @@
 
 ---
 
-🎯 **Mission:** Keep learning. Keep building. Keep growing.  
-🧭 **Goal:** To craft impactful solutions at the intersection of AI and real-world applications.  
+<p align="center">
+  <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="200px" />
+</p>
+
+<h4 align="center">🎯 Mission: Keep Learning • Keep Building • Keep Growing 🌱</h4>
+<h4 align="center">🧭 Vision: Innovate at the crossroads of AI, design, and real-world impact 🚀</h4>
