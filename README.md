@@ -1,7 +1,11 @@
 <!-- README.md -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Deepak!;Full+Stack+Developer+%7C+Tech+Explorer;Welcome+to+My+Creative+Universe+on+GitHub!+🚀" alt="Typing SVG" />
-</h1>
+<h3 align="center">Hi there, I'm Deepak 👋</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack-Developer-orange?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Tech-Explorer-blueviolet?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Welcome%20to%20My%20Universe-🚀-lightgrey?style=for-the-badge" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
