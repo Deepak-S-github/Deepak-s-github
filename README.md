@@ -1,24 +1,17 @@
 <!-- README.md -->
 <h1 align="center">
-<h3 align="center">Hi there, I'm Deepak 👋</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Hey+there+👋%2C+I'm+Deepak!;Full+Stack+Dev+%7C+AI+Builder;Let's+Create+Magic+with+Code+💻" alt="Typing SVG" />
+</h1>
+
+<!-- 🎬 Matrix Code Rain -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack-Developer-orange?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Tech-Explorer-blueviolet?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Welcome%20to%20My%20Universe-🚀-lightgrey?style=for-the-badge" />
+  <img src="https://raw.githubusercontent.com/Deepak-S-github/Deepak-S-github/output/code-rain-matrix.svg" alt="Matrix Rain" width="90%" />
 </p>
 
+<!-- 💻 Terminal Simulator -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+  <img src="https://readme-terminal-showcase.vercel.app/api?name=Deepak&text=Welcome+to+Deepak's+Terminal%21%0A%24+whoami%0ADeepak+-+Full+Stack+Dev+%2F+AI+Explorer%0A%24+npm+run+innovate%0A🚀+Deploying+Your+Dreams...&speed=50" />
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="45%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
-  <img src="https://media.giphy.com/media/5k0CGgchP2vE9tR9Lo/giphy.gif" width="45%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
-</p>
-
-
-
-
-
 
 ---
 
@@ -26,9 +19,11 @@
 
 ---
 
-🎓 **B.Tech in Artificial Intelligence & Data Science**  
-🏫 **Velammal Engineering College, Chennai**  
-🌍 **Exploring the boundaries of AI, Vision, Cloud, and Full-Stack Engineering**
+### 🌐 Scrolling Tech Banner
+
+<marquee scrollamount="10" behavior="scroll" direction="left" style="font-size: 22px; color: lime;">
+  🔥 MERN Stack • ☁️ Firebase & AWS • 🎯 Vision + LLMs • 👨‍💻 AI in Action • 💡 Let's Build Together!
+</marquee>
 
 ---
 
@@ -44,7 +39,7 @@
 
 ---
 
-## 🔥 My Favorite Tech Domains  
+## 🔥 Favorite Domains  
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Generative%20AI-%23FF6F61?style=for-the-badge&logo=openai&logoColor=white" />
@@ -56,11 +51,11 @@
 
 ---
 
-## 💻 Tech Stack & Tools I Use
+## 💻 Tech Stack
 
 ### 🔧 Languages & Frameworks  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,nodejs,flask,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,flask,html,css" />
 </p>
 
 ### ☁️ Databases & DevOps  
@@ -75,10 +70,10 @@
 
 ---
 
-## 🚀 Featured GitHub Stats
+## 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepak-S-github&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepak-S-github&show_icons=true&theme=radical&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak-S-github&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -92,7 +87,7 @@
 
 ---
 
-## 📊 GitHub Activity Graph
+## 📊 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepak-S-github&bg_color=0d1117&color=00ffb3&line=00c6ff&point=ffffff&area=true&hide_border=true" />
@@ -100,25 +95,19 @@
 
 ---
 
-## 🌐 Let's Connect  
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/deepak-saminathan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/d.pak_07/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:deepak.saminathan2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/deepak-saminathan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:deepak.saminathan2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Deepak-S-github" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="200px" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" />
 </p>
 
-<h4 align="center">🎯 Mission: Keep Learning • Keep Building • Keep Growing 🌱</h4>
-<h4 align="center">🧭 Vision: Innovate at the crossroads of AI, design, and real-world impact 🚀</h4>
+<h4 align="center">📌 Vision: To bridge the gap between humans and machines through meaningful tech 🌐</h4>
+<h4 align="center">🧭 Motto: Code Hard • Dream Big • Stay Curious ⚡</h4>
