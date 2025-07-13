@@ -1,15 +1,19 @@
 <!-- README.md -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Deepak!;Full+Stack+Developer+%7C+Tech+Explorer;Welcome+to+My+Creative+Universe+on+GitHub!+🚀" alt="Typing SVG" />
-</h1> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Deepak!" alt="Typing SVG 1" />
+  <br />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Tech+Explorer" alt="Typing SVG 2" />
+  <br />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+My+Creative+Universe+on+GitHub!+🚀" alt="Typing SVG 3" />
+</h1>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="45%" style="border-radius: 10px;" />
   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45%" style="border-radius: 10px;" />
 </p>
 
@@ -60,7 +64,7 @@
 
 ### ☁️ Databases & DevOps  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,vercel" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws" />
 </p>
 
 ### 🧰 Platforms & Tools  
@@ -119,9 +123,9 @@
 
 <h4 align="center">🎯 Mission: Keep Learning • Keep Building • Keep Growing 🌱</h4>
 <h4 align="center">🧭 Vision: Innovate at the crossroads of AI, design, and real-world impact 🚀</h4>   
-
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFD93D&center=true&vCenter=true&width=750&lines=✨+Thanks+for+visiting+my+GitHub+profile!+Let's+build+something+amazing+together.+✨" />
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD93D&center=true&vCenter=true&width=800&lines=✨+Thanks+for+visiting+my+GitHub+profile!;Let's+build+something+amazing+together.+🚀" />
 </p>
+
