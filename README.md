@@ -41,17 +41,6 @@
 
 ---
 
-## 🔥 My Favorite Tech Domains  
-<p align="center">
-  <img src="https://img.shields.io/badge/-Generative%20AI-%23FF6F61?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Computer%20Vision-%232980B9?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/-LLMs%20%26%20NLP-%238E44AD?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MERN%20Stack-%232ECC71?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cloud:%20AWS%20%7C%20Firebase-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-
----
-
 ## 💻 Tech Stack & Tools I Use
 
 ### 🔧 Languages & Frameworks  
