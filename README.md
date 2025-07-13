@@ -1,4 +1,5 @@
 <!-- README.md -->
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Deepak!;Full+Stack+Developer+%7C+Tech+Explorer;Welcome+to+My+Creative+Universe+on+GitHub!+🚀" alt="Typing SVG" />
 </h1> 
@@ -8,15 +9,15 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="45%" style="border-radius: 10px;" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="45%" style="border-radius: 10px;" />
   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45%" style="border-radius: 10px;" />
 </p>
 
 ---
 
-<marquee behavior="scroll" direction="left" scrollamount="6">
-🧠 “Innovating intelligent ecosystems, one algorithm at a time.” 🚀
-</marquee>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=🧠+Innovating+intelligent+ecosystems+one+algorithm+at+a+time.+🚀" alt="Typing Quote" />
+</p>
 
 ---
 
@@ -121,6 +122,6 @@
 
 ---
 
-<marquee behavior="scroll" direction="right" scrollamount="5">
-✨ Thanks for visiting my GitHub profile! Let's build something amazing together. ✨
-</marquee>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFD93D&center=true&vCenter=true&width=750&lines=✨+Thanks+for+visiting+my+GitHub+profile!+Let's+build+something+amazing+together.+✨" />
+</p>
