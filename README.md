@@ -1,14 +1,15 @@
 <!-- README.md -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Deepak!;Full+Stack+Developer+%7C+Tech+Explorer;Welcome+to+My+Creative+Universe+on+GitHub!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=👋+Hey+there,+I'm+Deepak!;💻+Full+Stack+Developer+|+Tech+Explorer;🚀+Welcome+to+My+Creative+Universe+on+GitHub!" alt="Typing SVG" />
 </h1> 
+
+<!-- ✨ Colorful Line Separator -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="4px"" />
+  <img src="https://raw.githubusercontent.com/klaudiosinani/readme-outline/main/assets/lines/colorful.svg" width="100%" height="4px" />
 </p>
 
----
-
+<!-- 🧠 Animated Tagline -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=🧠+Innovating+intelligent+ecosystems+one+algorithm+at+a+time.+🚀" alt="Typing Quote" />
 </p>
@@ -101,10 +102,11 @@
 </p>
 
 <h4 align="center">🎯 Mission: Keep Learning • Keep Building • Keep Growing 🌱</h4>
-<h4 align="center">🧭 Vision: Innovate at the crossroads of AI, design, and real-world impact 🚀</h4>   
+<h4 align="center">🧭 Vision: Innovate at the crossroads of AI, design, and real-world impact 🚀</h4>
+
 ---
 
-  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD93D&center=true&vCenter=true&width=800&lines=✨+Thanks+for+visiting+my+GitHub+profile!;Let's+build+something+amazing+together.+🚀" />
+<!-- ✨ Closing Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD93D&center=true&vCenter=true&width=800&lines=✨+Thanks+for+visiting+my+GitHub+profile!;Let's+build+something+amazing+together.+🚀" alt="Closing Typing" />
 </p>
-
