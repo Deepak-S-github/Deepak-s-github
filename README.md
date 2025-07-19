@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Deepak Saminathan</h1>
+<h1 align="center">👋 Hello, I'm Deepak S</h1>
 
 <p align="center">
   <strong>AI & Full Stack Developer | Tech Visionary | Hackathon Enthusiast | Product Builder 🚀</strong><br/>
