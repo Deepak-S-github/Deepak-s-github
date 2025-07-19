@@ -80,14 +80,14 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/deepaksaminathan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Deepak%20Saminathan-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/deepak-saminathan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Deepak%20S-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.instagram.com/deepak.codes/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@deepak.codes-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/d.pak_07?igsh=c3I4em00NG1lNmN3" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@d.pak_07-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://deepaksaminathan.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-deepaksaminathan.dev-9cf?style=for-the-badge&logo=google-chrome" />
+  <a href="https://deepak-s-github.github.io/MYPORTFOLIO/?fbclid=PAQ0xDSwLoCHVleHRuA2FlbQIxMQABp_K9Qfho72mYnXC4XAH-TEFah5--sGo9t2c3Jy0oaz2S2GPoLNSnf3s1bHQZ_aem_yAJU37phjMqxWrJ19SgXCA" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-port folio-9cf?style=for-the-badge&logo=google-chrome" />
   </a>
 </p>
 
