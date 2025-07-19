@@ -1,13 +1,14 @@
 <h1 align="center">👋 Hello, I'm Deepak Saminathan</h1>
 <!-- 👨‍💻 Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=🚀+AI+%26+Full+Stack+Developer;💡+Turning+Ideas+into+Scalable+Solutions;🌐+Exploring+AI,+Cloud,+and+Tech+Innovation" alt="Typing animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepak-S-github&show_icons=true&title_color=facc15&text_color=ffffff&icon_color=f97316&bg_color=0d1117&hide_title=true&hide_border=true&custom_title=🚀%20AI%20%26%20Full%20Stack%20Developer%20%7C%20Tech%20Explorer" height="130" />
 </p>
 
 <!-- 👁️ Profile View Counter (backup link provided) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Deepak-S-github&style=for-the-badge&color=blue" alt="Profile views" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepak-S-github&theme=github_dark" />
 </p>
+
 
 
 ---
