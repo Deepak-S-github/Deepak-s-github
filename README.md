@@ -1,100 +1,91 @@
-<!-- README.md -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=👋+Hey+there,+I'm+Deepak!;💻+Full+Stack+Developer+|+Tech+Explorer;🚀+Welcome+to+My+Creative+Universe+on+GitHub!" alt="Typing SVG" />
-</h1>
-
-<!-- 🎉 Corner GIF -->
-<p align="right">
-  <img src="https://media.giphy.com/media/3o7aCU1dCMRz8WDnO0/giphy.gif" width="100px" alt="Coding Celebration" />
+<h1 align="center">👋 Hi, I'm Deepak Saminathan</h1>
+<p align="center">
+  <strong>🚀 AI & Full Stack Developer | 🔍 Curious Technophile | 🌍 Building the future, one line at a time.</strong>
 </p>
 
-<!-- 🎖 Colorful Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/klaudiosinani/readme-outline/main/assets/lines/colorful.svg" width="100%" height="4px" />
-</p>
-
-<!-- 🧠 Animated Tagline -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=🧠+Innovating+intelligent+ecosystems+one+algorithm+at+a+time.+🚀" alt="Typing Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=💡+Innovating+with+AI+%26+Cloud;👨‍💻+Crafting+full-stack+solutions;📈+Learning+%26+Contributing+Daily" alt="Typing animation" />
 </p>
 
 ---
 
-### 🎓 Education  
-- **B.Tech in Artificial Intelligence & Data Science**  
-- 🏫 **Velammal Engineering College, Chennai**  
-- 🌍 Passionate about AI, Computer Vision, Cloud, and Full‑Stack Development
+## 🧠 About Me
+
+🎓 **B.Tech in Artificial Intelligence & Data Science**  
+🏫 **Velammal Engineering College, Chennai**  
+🌟 Passionate about **AI, Computer Vision, Cloud Computing, and Full‑Stack Development**
+
+- 🔭 I’m currently working on real-time AI systems and smart event analytics
+- 🌱 Learning: `TensorFlow`, `Vertex AI`, `Flutter`, `GCP`, and `Next.js`
+- 🧩 I enjoy simplifying complex problems into intelligent, scalable solutions
+- 🛠️ Open-source contributor and hackathon enthusiast
 
 ---
 
-## 🌟 About Me – Fast Facts
-<div align="center">
+## 💼 Tech Stack
 
-🧩 AI enthusiast with a flair for solving real‑world problems  
-🖥️ I build full‑stack applications that *think*  
-🧠 Active contributor to open‑source & AI communities  
-🌱 Currently exploring TensorFlow, Vertex AI, Flutter  
+### 👨‍💻 Languages
+![Python](https://skillicons.dev/icons?i=python)
+![C++](https://skillicons.dev/icons?i=cpp)
+![C](https://skillicons.dev/icons?i=c)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
 
-</div>
+### 🧱 Frameworks & Libraries
+![React](https://skillicons.dev/icons?i=react)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Flask](https://skillicons.dev/icons?i=flask)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
----
+### ☁️ Cloud & DevOps
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![GCP](https://skillicons.dev/icons?i=gcp)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Docker](https://skillicons.dev/icons?i=docker)
 
-## 💻 Tech Stack & Tools
+### 🗃️ Databases
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
-### 🔧 Languages & Frameworks  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,nodejs,flask,html,css" />
-</p>
-
-### ☁️ Databases & DevOps  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws" />
-</p>
-
-### 🧰 Platforms & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,colab,figma" />
-</p>
-
----
-
-## 📊 GitHub Stats & Achievements
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepak-S-github&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak-S-github&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Deepak-S-github&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+### 🛠️ Tools & Platforms
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Colab](https://skillicons.dev/icons?i=googlecolab)
+![Figma](https://skillicons.dev/icons?i=figma)
 
 ---
 
-## 📈 Activity Graph  
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepak-S-github&bg_color=0d1117&color=00ffb3&line=00c6ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepak-S-github&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak-S-github&theme=tokyonight&hide_border=true" width="47%"/>
 </p>
 
----
-
-## 🌐 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/deepak-saminathan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="https://www.instagram.com/d.pak_07/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  &nbsp;
-  <a href="mailto:deepak.saminathan2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Deepak-S-github&theme=gruvbox&no-frame=true&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepak-S-github&theme=react-dark&bg_color=0d1117&hide_border=true" />
 </p>
 
 ---
 
+## 📫 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/deepak-saminathan/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/d.pak_07"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:deepak.saminathan2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD93D&center=true&vCenter=true&width=800&lines=✨+Thanks+for+visiting+my+GitHub+profile!;Let's+build+something+amazing+together.+🚀" alt="Closing Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=FACC15&width=800&lines=✨+Thanks+for+visiting+my+GitHub!;Let’s+connect,+collaborate,+and+build+something+awesome!+🚀" alt="Thanks Banner" />
 </p>
