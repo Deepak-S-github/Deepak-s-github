@@ -64,23 +64,7 @@
 
 ---
 
-## ⚡ GitHub Metrics
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/Deepak-S-github?template=classic&config.timezone=Asia%2FKolkata" alt="GitHub Metrics" />
-</p>
-
----
-
-## 📌 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepak-S-github&theme=github-compact&hide_border=true" />
-</p>
-
----
-
-## ✨ Dynamic Dev Quote
+## ✨ Developer Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -91,4 +75,4 @@
 <!-- 🙌 Final Footer Badge -->
 <p align="center">
   <img src="https://img.shields.io/badge/Profile%20Views-🌟%20Thanks%20for%20Stopping%20By!-brightgreen?style=for-the-badge" />
-</p>
+</p> 
