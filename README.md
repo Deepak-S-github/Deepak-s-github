@@ -1,5 +1,10 @@
 <h1 align="center">👋 Hello, I'm Deepak Saminathan</h1>
 
+<p align="center">
+  <strong>AI & Full Stack Developer | Tech Visionary | Hackathon Enthusiast | Product Builder 🚀</strong><br/>
+  <em>Crafting smarter ecosystems through AI, design, and impactful code.</em>
+</p>
+
 <!-- ✨ Animated Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=800&height=45&lines=AI+%26+Full+Stack+Developer;Open+Source+Enthusiast+%7C+Hackathon+Lover;Tech+Explorer+%7C+Building+Smarter+Ecosystems" alt="Typing Header" />
@@ -56,15 +61,15 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Deepak-S-github&theme=onedark&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Deepak-S-github&theme=gruvbox&no-frame=true&title=Stars,Followers,Repositories,Commits,PullRequest,Issues,Contributions" />
 </p>
 
 ---
 
-## ✨ Developer Quote
+## ✨ Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -72,7 +77,23 @@
 
 ---
 
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/deepaksaminathan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Deepak%20Saminathan-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/deepak.codes/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@deepak.codes-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://deepaksaminathan.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-deepaksaminathan.dev-9cf?style=for-the-badge&logo=google-chrome" />
+  </a>
+</p>
+
+---
+
 <!-- 🙌 Final Footer Badge -->
 <p align="center">
   <img src="https://img.shields.io/badge/Profile%20Views-🌟%20Thanks%20for%20Stopping%20By!-brightgreen?style=for-the-badge" />
-</p> 
+</p>
