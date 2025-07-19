@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hello, I'm Deepak Saminathan</h1>
 
-<!-- 🔥 Clean Banner: Developer Tagline -->
+<!-- ✨ Animated Typing Header -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepak-S-github&show_icons=true&title_color=facc15&text_color=ffffff&icon_color=f97316&bg_color=0d1117&hide_title=true&hide_border=true&custom_title=🚀%20AI%20%26%20Full%20Stack%20Developer%20%7C%20Tech%20Explorer" height="130" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=800&height=45&lines=AI+%26+Full+Stack+Developer;Open+Source+Enthusiast+%7C+Hackathon+Lover;Tech+Explorer+%7C+Building+Smarter+Ecosystems" alt="Typing Header" />
 </p>
 
-<!-- 👁️ Profile Summary -->
+<!-- 📌 GitHub Profile Summary -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepak-S-github&theme=github_dark" />
 </p>
@@ -16,11 +16,11 @@
 
 🎓 **B.Tech in Artificial Intelligence & Data Science**  
 🏫 Velammal Engineering College, Chennai  
-💼 Passionate about AI, Computer Vision, Cloud Computing, and Full‑Stack Development  
+💼 Passionate about AI, Computer Vision, Cloud Computing, and Full‑Stack Development
 
 - 🌱 Currently exploring: `AI`, `React`, `Flutter`  
 - 💬 I love building intelligent ecosystems using data + design  
-- 🧑‍💻 Hackathon enthusiast & community contributor
+- 🧑‍💻 Hackathon enthusiast & community contributor  
 
 ---
 
@@ -37,28 +37,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepak-S-github&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak-S-github&theme=github-dark&hide_border=true" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-S-github&layout=compact&theme=github_dark&hide_border=true" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepak-S-github&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak-S-github&theme=github-dark&hide_border=true" height="170" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-S-github&layout=compact&theme=github_dark&hide_border=true" height="140" />
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Deepak-S-github&theme=onedark&no-frame=true&margin-w=10&row=1&column=7" />
-</p>
-
----
-
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepak-S-github&theme=react-dark&bg_color=0d1117&hide_border=true" />
@@ -66,6 +56,39 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Deepak-S-github&theme=onedark&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## ⚡ GitHub Metrics
+
+<p align="center">
+  <img src="https://github-metrics.vercel.app/api?username=Deepak-S-github&theme=dark&config.timezone=Asia%2FKolkata" />
+</p>
+
+---
+
+## 📌 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepak-S-github&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+## ✨ Dynamic Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<!-- 🙌 Final Footer Badge -->
 <p align="center">
   <img src="https://img.shields.io/badge/Profile%20Views-🌟%20Thanks%20for%20Stopping%20By!-brightgreen?style=for-the-badge" />
 </p>
