@@ -67,7 +67,7 @@
 ## ⚡ GitHub Metrics
 
 <p align="center">
-  <img src="https://github-metrics.vercel.app/api?username=Deepak-S-github&theme=dark&config.timezone=Asia%2FKolkata" />
+  <img src="https://metrics.lecoq.io/Deepak-S-github?template=classic&config.timezone=Asia%2FKolkata" alt="GitHub Metrics" />
 </p>
 
 ---
