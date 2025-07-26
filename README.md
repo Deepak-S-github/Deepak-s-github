@@ -39,30 +39,17 @@
 <tr><td><b>Databases</b></td><td><img src="https://skillicons.dev/icons?i=mongodb,mysql" /></td></tr>
 <tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma" /></td></tr>
 </table>
-
----
-
-## 📝 Tech Blogs
-
-> 🌐 Check out my latest posts:
-
-- [How I Built a Real-Time Event Monitoring System Using AI 🧠](https://medium.com/@deepak-s-ai/event-monitoring-system-with-ai-3a5610c8912b)
-- [Mastering Full Stack Deployment on EC2 with GitHub Actions 🚀](https://medium.com/@deepak-s-ai/ec2-github-actions-deploy-4c3b5b8c9d3f)
-- [Smarter Phishing Detection with ML and Feature Engineering 🔐](https://medium.com/@deepak-s-ai/smart-phishing-detection-ml-2a0c87df6d52)
-
-📖 [Explore all my blogs »](https://medium.com/@deepak-s-ai)
-
 ---
 
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepak-S-github&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak-S-github&theme=dark&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepak-S-github&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak-S-github&theme=dark&hide_border=false" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-S-github&theme=dark&hide_border=false&layout=compact&langs_count=6" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-S-github&theme=dark&hide_border=false&layout=compact&langs_count=6" width="60%" />
 </p>
 
 ---
@@ -70,7 +57,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Deepak-S-github&theme=radical&no-frame=true&no-bg=true&margin-w=8" width="90%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Deepak-S-github&theme=radical&no-frame=true&no-bg=true&margin-w=8" width="95%" />
 </p>
 
 ---
@@ -78,7 +65,7 @@
 ## 🔝 Top Contributed Repositories
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Deepak-S-github&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Deepak-S-github&limit=5&theme=dark&combine_all_yearly_contributions=true" width="90%" />
 </p>
 
 ---
@@ -86,7 +73,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepak-S-github&theme=react-dark&bg_color=0d1117&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepak-S-github&theme=react-dark&bg_color=0d1117&hide_border=true" width="95%" />
 </p>
 
 ---
@@ -94,7 +81,7 @@
 ## ✨ Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="90%" />
 </p>
 
 ---
