@@ -42,14 +42,41 @@
 
 ---
 
+## 📝 Tech Blogs
+
+> 🌐 Check out my latest posts:
+
+- [How I Built a Real-Time Event Monitoring System Using AI 🧠](https://medium.com/@deepak-s-ai/event-monitoring-system-with-ai-3a5610c8912b)
+- [Mastering Full Stack Deployment on EC2 with GitHub Actions 🚀](https://medium.com/@deepak-s-ai/ec2-github-actions-deploy-4c3b5b8c9d3f)
+- [Smarter Phishing Detection with ML and Feature Engineering 🔐](https://medium.com/@deepak-s-ai/smart-phishing-detection-ml-2a0c87df6d52)
+
+📖 [Explore all my blogs »](https://medium.com/@deepak-s-ai)
+
+---
+
 ## 📊 GitHub Overview
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepak-S-github&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak-S-github&theme=github-dark&hide_border=true" height="170" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-S-github&layout=compact&theme=github_dark&hide_border=true" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepak-S-github&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak-S-github&theme=dark&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-S-github&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Deepak-S-github&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+## 🔝 Top Contributed Repositories
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Deepak-S-github&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
 
 ---
 
@@ -57,14 +84,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepak-S-github&theme=react-dark&bg_color=0d1117&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Deepak-S-github&theme=gruvbox&no-frame=true&title=Stars,Followers,Repositories,Commits,PullRequest,Issues,Contributions" />
 </p>
 
 ---
@@ -92,3 +111,8 @@
 </p>
 
 ---
+
+<!-- 🙌 Final Footer Badge -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Deepak-S-github&icon=0&color=0" />
+</p>
