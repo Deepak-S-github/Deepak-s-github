@@ -1,4 +1,4 @@
-# <h1 align="center">👋 Hello, I'm Deepak S</h1>
+<h1 align="center">👋 Hello, I'm Deepak S</h1>
 
 <p align="center">
   <strong>AI & Full Stack Developer | Tech Visionary | Hackathon Enthusiast | Product Builder 🚀</strong><br/>
@@ -42,17 +42,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
-![](https://github-readme-stats.vercel.app/api?username=Deepak-S-github&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Deepak-S-github&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-S-github&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Deepak-S-github&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Deepak-S-github&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepak-S-github&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak-S-github&theme=github-dark&hide_border=true" height="170" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-S-github&layout=compact&theme=github_dark&hide_border=true" height="140" />
+</div>
 
 ---
 
@@ -89,21 +86,9 @@
   <a href="https://www.instagram.com/d.pak_07?igsh=c3I4em00NG1lNmN3" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@d.pak_07-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://deepak-s-github.github.io/MYPORTFOLIO/?fbclid=PAQ0xDSwLoCHVleHRuA2FlbQIxMQABp_K9Qfho72mYnXC4XAH-TEFah5--sGo9t2c3Jy0oaz2S2GPoLNSnf3s1bHQZ_aem_yAJU37phjMqxWrJ19SgXCA" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-port%20folio-9cf?style=for-the-badge&logo=google-chrome" />
+  <a href="https://deepak-s-github.github.io/MYPORTFOLIO/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-port folio-9cf?style=for-the-badge&logo=google-chrome" />
   </a>
 </p>
 
 ---
-
-<!-- 🙌 Final Footer Badge -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-🌟%20Thanks%20for%20Stopping%20By!-brightgreen?style=for-the-badge" />
-</p>
-
-<!-- Visit Counter -->
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Deepak-S-github&icon=0&color=0" />
-  </a>
-</p>
