@@ -43,13 +43,13 @@
 
 ## 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepak-S-github&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak-S-github&theme=dark&hide_border=false" width="49%" />
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepak-S-github&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="49.5%" style="min-width: 300px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak-S-github&theme=dark&hide_border=false" width="49.5%" style="min-width: 300px;" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-S-github&theme=dark&hide_border=false&layout=compact&langs_count=6" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-S-github&theme=dark&hide_border=false&layout=compact&langs_count=6" width="60%" style="min-width: 280px;" />
 </p>
 
 ---
