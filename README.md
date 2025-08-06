@@ -30,7 +30,7 @@
 ---
 
 ## 💻 Tech Stack
-
+<!-- 
 <table align="center">
   <tr>
     <th>Category</th>
@@ -96,6 +96,86 @@
       <img src="https://img.shields.io/badge/photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" height="30" />
       <img src="https://img.shields.io/badge/illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" height="30" />
       <img src="https://img.shields.io/badge/after%20effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white" height="30" />
+    </td>
+  </tr>
+</table> -->
+<!-- 💻 Tech Stack Icons Only -->
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<table align="center">
+  <tr>
+    <th>Category</th>
+    <th>Icons</th>
+  </tr>
+
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,dart,css,c,cpp,python,html,java" /></td>
+  </tr>
+
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,flutter,bootstrap,tailwind,vite" /></td>
+  </tr>
+
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,nginx" /></td>
+  </tr>
+
+  <tr>
+    <td><b>Cloud / DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,render,githubactions" /></td>
+  </tr>
+
+  <tr>
+    <td><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+      <img src="https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=white" height="28" />
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" height="28" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma,anaconda" /></td>
+  </tr>
+
+  <tr>
+    <td><b>Data Science / ML</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=numpy,pandas" />
+      <img src="https://img.shields.io/badge/Matplotlib-black?style=flat&logo=matplotlib&logoColor=white" height="28" />
+      <img src="https://img.shields.io/badge/Scipy-0C55A5?style=flat&logo=scipy&logoColor=white" height="28" />
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+      <img src="https://img.shields.io/badge/keras-D00000?style=flat&logo=keras&logoColor=white" height="28" />
+      <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat&logo=opencv&logoColor=white" height="28" />
+      <img src="https://img.shields.io/badge/cuda-000000?style=flat&logo=nvidia&logoColor=green" height="28" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Design & Creative</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" height="28" />
+      <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white" height="28" />
+      <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white" height="28" />
+      <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white" height="28" />
+      <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=flat&logo=adobelightroom&logoColor=white" height="28" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Gaming & Graphics</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" height="28" />
+      <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white" height="28" />
+      <img src="https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white" height="28" />
+      <img src="https://img.shields.io/badge/Epic%20Games-313131?style=flat&logo=epicgames&logoColor=white" height="28" />
+      <img src="https://img.shields.io/badge/EA-000000?style=flat&logo=ea&logoColor=white" height="28" />
+      <img src="https://img.shields.io/badge/Ubisoft-F5F5F5?style=flat&logo=ubisoft&logoColor=black" height="28" />
+      <img src="https://img.shields.io/badge/Riot%20Games-D32936?style=flat&logo=riotgames&logoColor=white" height="28" />
     </td>
   </tr>
 </table>
