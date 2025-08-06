@@ -39,42 +39,64 @@
 
   <tr>
     <td><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,java,dart" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,java,dart" />
+    </td>
   </tr>
 
   <tr>
     <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,flutter,bootstrap,tailwind,vite" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,bootstrap,tailwind,vite" />
+    </td>
   </tr>
 
   <tr>
     <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,flask,express,fastapi,nginx,apache" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,flask,express,fastapi,nginx" />
+    </td>
   </tr>
 
   <tr>
     <td><b>Cloud & DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,render,githubactions" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,githubactions" />
+    </td>
   </tr>
 
   <tr>
     <td><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+      <img src="https://img.shields.io/badge/sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white" height="30" />
+    </td>
   </tr>
 
   <tr>
     <td><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma,anaconda" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+      <img src="https://img.shields.io/badge/anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white" height="30" />
+    </td>
   </tr>
 
   <tr>
     <td><b>Data Science / ML</b></td>
-    <td><img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,scikit-learn,tensorflow,pytorch,keras,opencv" /></td>
+    <td>
+      <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="30" />
+      <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="30" />
+      <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=white" height="30" />
+    </td>
   </tr>
 
   <tr>
     <td><b>Design & Creative</b></td>
-    <td><img src="https://skillicons.dev/icons?i=photoshop,illustrator,aftereffects,premierepro,lightroom" /></td>
+    <td>
+      <img src="https://img.shields.io/badge/photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" height="30" />
+      <img src="https://img.shields.io/badge/illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" height="30" />
+      <img src="https://img.shields.io/badge/after%20effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white" height="30" />
+    </td>
   </tr>
 </table>
 
