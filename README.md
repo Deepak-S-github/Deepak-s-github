@@ -209,15 +209,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepak-S-github&theme=react-dark&bg_color=0d1117&hide_border=true" width="95%" />
 </p>
 
----
 
-## ✨ Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="90%" />
-</p>
-
----
 
 ## 🌐 Connect with Me
 
