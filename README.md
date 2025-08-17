@@ -12,7 +12,7 @@
 
 <!-- 📌 GitHub Profile Summary -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepak-S-github&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dpak-07&theme=github_dark" />
 </p>
 
 ---
@@ -185,28 +185,28 @@
 
 ## 📊 GitHub Overview
 
-![](https://github-readme-stats.vercel.app/api?username=Deepak-S-github&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Deepak-S-github&theme=great-gatsby&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-S-github&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=dpak-07&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dpak-07&theme=great-gatsby&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dpak-07&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Deepak-S-github&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=dpak-07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Deepak-S-github&limit=5&theme=react&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=dpak-07&limit=5&theme=react&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Deepak-S-github&icon=7&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=dpak-07&icon=7&color=8)](https://visitcount.itsvg.in)
 
 ---
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepak-S-github&theme=react-dark&bg_color=0d1117&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dpak-07&theme=react-dark&bg_color=0d1117&hide_border=true" width="95%" />
 </p>
 
 
@@ -220,7 +220,7 @@
   <a href="https://www.instagram.com/d.pak_07?igsh=c3I4em00NG1lNmN3" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@d.pak_07-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://deepak-s-github.github.io/MYPORTFOLIO/" target="_blank">
+  <a href="https://deepakportfolio-0607.web.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-port folio-9cf?style=for-the-badge&logo=google-chrome" />
   </a>
 </p>
@@ -229,5 +229,5 @@
 
 <!-- 🙌 Final Footer Badge -->
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Deepak-S-github&icon=0&color=0" />
+  <img src="https://visitcount.itsvg.in/api?id=dpak-07&icon=0&color=0" />
 </p>
